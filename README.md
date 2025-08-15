@@ -25,18 +25,12 @@ Exemplo de instalação no Ubuntu/Debian:
 ```bash
 sudo apt update
 sudo apt install hping3
-
-# TCP Portscan Interativo
-
-## Uso
-
-Antes de executar o script, é necessário **dar permissão de execução**:
+```
+##Uso
 
 ```bash
 chmod +x tcp_portscan.sh
-Depois, execute normalmente:
-
-bash
-Copiar
-Editar
 ./tcp_portscan.sh
+```
+
+
