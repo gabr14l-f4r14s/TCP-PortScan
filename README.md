@@ -1,11 +1,11 @@
-# TCP Portscan Interativo
+# TCP Portscan Interativo:
 
 Este é um **script simples em Bash** para estudo que realiza varredura de portas TCP em redes Classe A, B ou C.  
 Ele utiliza o **hping3** para enviar pacotes SYN e detectar quais hosts têm portas abertas.
 
 ---
 
-## Funcionalidades
+## Funcionalidades:
 
 - Varredura de redes Classe **A**, **B** ou **C**  
 - Escolha interativa do **IP base da rede**  
@@ -15,7 +15,7 @@ Ele utiliza o **hping3** para enviar pacotes SYN e detectar quais hosts têm por
 
 ---
 
-## Requisitos
+## Requisitos:
 
 - Sistema Linux (ou compatível com Bash)  
 - [hping3](https://github.com/antirez/hping) instalado
@@ -26,7 +26,7 @@ Exemplo de instalação no Ubuntu/Debian:
 sudo apt update
 sudo apt install hping3
 ```
-## Uso
+## Uso:
 
 ```bash
 chmod +x tcp_portscan.sh
