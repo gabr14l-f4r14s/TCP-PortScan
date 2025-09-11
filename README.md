@@ -3,6 +3,8 @@
 Este é um **script simples em Bash** para estudo que realiza varredura de portas TCP em redes Classe A, B ou C.  
 Ele utiliza o **hping3** para enviar pacotes SYN e detectar quais hosts têm portas abertas.
 
+> ⚠️ **Aviso Legal:** Este programa deve ser usado apenas em redes **que você possui ou tem permissão explícita para testar**. Escanear portas de terceiros sem autorização é considerado atividade ilegal.
+
 ---
 
 ## Funcionalidades:
